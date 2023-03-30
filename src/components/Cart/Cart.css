@@ -1,0 +1,9 @@
+.cart{
+    margin: 30px;
+    color: purple;
+}
+
+.cart p{
+    font-size: 15px;
+    font-weight: 700;
+}

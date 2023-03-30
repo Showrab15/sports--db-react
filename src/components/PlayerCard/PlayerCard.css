@@ -1,0 +1,35 @@
+.player-card-container{
+    height: 100%;
+    width: 100%;
+    background-color: purple;
+    border-radius: 8px;
+    }
+
+    .player-card-container img{
+        border: 1px solid whitesmoke;
+        background-color: aliceblue;
+        width: 286px;
+        height:   286px;
+    border-radius: 8px;
+    margin: 7px
+    }
+
+    .player-info{
+        margin-left: 10px;
+        color: white;
+    }
+   
+    .buy-btn{
+        margin-left: 10px;
+    }
+    .dlt-btn{
+    margin-left: 10px;}
+    .btn-container{
+        display: flex;
+        margin-bottom: 10px;
+        margin-left: 8px;
+    }
+
+    .icon{
+        margin-left: 5px;
+    }

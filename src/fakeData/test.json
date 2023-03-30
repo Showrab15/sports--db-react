@@ -1,0 +1,245 @@
+{
+    "players": [
+        {
+            "id": "2023",
+            "name": "Shreyas Iyer",
+            "price": 900,
+            "ratings": 5,
+            "quantity": 0,
+            "category": "wicket-Keeper",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/63961.png?v=5.4&w=200"
+        },
+        {
+            "id": "2024",
+            "name": "Anukul ROy",
+            "price": 200,
+            "ratings": 2,
+            "quantity": 0,
+            "category": "all-rounder",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/66983.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "2025",
+            "name": "Andre Russell",
+            "price": 800,
+            "ratings": 5,
+            "quantity": 0,
+            "category": "all-rounder",
+            "country": "west-indies",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/12047.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "2026",
+            "name": "David Wiese ",
+            "price": 300,
+            "ratings": 3,
+            "quantity": 0,
+            "category": "all-rounder",
+            "country": "namibia",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/45853.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "2027",
+            "name": "Shakib Al hasan  ",
+            "price": 700,
+            "ratings": 4,
+            "quantity": 0,
+            "category": "all-rounder",
+            "country": "bangladesh",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/3782.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "2028",
+            "name": "Sunil Narine ",
+            "price": 900,
+            "ratings": 5,
+            "quantity": 0,
+            "category": "all-rounder",
+            "country": "west-indies",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/11229.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "2029",
+            "name": "Vanktesh Iyer ",
+            "price": 500,
+            "ratings": 3.5,
+            "quantity": 0,
+            "category": "all-rounder",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/65430.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "3000",
+            "name": "mandeep Sing",
+            "price": 450,
+            "ratings": 3.5,
+            "quantity": 0,
+            "category": "batter",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/10114.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "3001",
+            "name": "Nitesh Rana ",
+            "price": 650,
+            "ratings": 4.5,
+            "quantity": 0,
+            "category": "batter",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/63649.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "3002",
+            "name": "Rinku Sing ",
+            "price": 550,
+            "ratings": 3.8,
+            "quantity": 0,
+            "category": "batter",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/64727.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "3003",
+            "name": "Litton Das ",
+            "price": 450,
+            "ratings": 4.5,
+            "quantity": 0,
+            "category": "wicket-keeper",
+            "country": "bangladesh",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/63206.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "3004",
+            "name": "Narayon Jagedeshan ",
+            "price": 250,
+            "ratings": 2.5,
+            "quantity": 0,
+            "category": "wicket-keeper",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/66451.png?v=5.4&w=200"
+        },
+
+
+        {
+            "id": "3005",
+            "name": "Rahamatullah Gurbaz  ",
+            "price": 750,
+            "ratings": 4.5,
+            "quantity": 0,
+            "category": "wicket-keeper",
+            "country": "afghanistan",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/68027.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "3006",
+            "name": "Harshit Rana   ",
+            "price": 250,
+            "ratings": 2.5,
+            "quantity": 0,
+            "category": "bowler",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/93526.png?v=5.1&w=200"
+        },
+
+        {
+            "id": "3007",
+            "name": "Kulwant Khejruyala",
+            "price": 270,
+            "ratings": 2.8,
+            "quantity": 0,
+            "category": "bowler",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/67136.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "3008",
+            "name": "Lookie Ferguson",
+            "price": 770,
+            "ratings": 4.8,
+            "quantity": 0,
+            "category": "bowler",
+            "country": "NewZealand",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/63719.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "3009",
+            "name": "Shardul Thakur ",
+            "price": 670,
+            "ratings": 4,
+            "quantity": 0,
+            "category": "bowler",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/63345.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "3010",
+            "name": "Suyash Sharma ",
+            "price": 370,
+            "ratings": 3,
+            "quantity": 0,
+            "category": "bowler",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/100564.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "3011",
+            "name": "Tim Southee",
+            "price": 670,
+            "ratings": 4,
+            "quantity": 0,
+            "category": "bowler",
+            "country": "NewZealand",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/4235.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "3012",
+            "name": "Umesh Yadav",
+            "price": 570,
+            "ratings": 3.5,
+            "quantity": 0,
+            "category": "bowler",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/5221.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "3013",
+            "name": "Vabivab Arora",
+            "price": 270,
+            "ratings": 2.5,
+            "quantity": 0,
+            "category": "bowler",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/74298.png?v=5.4&w=200"
+        },
+
+        {
+            "id": "3014",
+            "name": "Varun Chakroborty",
+            "price": 370,
+            "ratings": 3.5,
+            "quantity": 0,
+            "category": "bowler",
+            "country": "india",
+            "img": "https://www.kkr.in/static-assets/images/players/2020/67469.png?v=5.4&w=200"
+        }
+    ]
+}
