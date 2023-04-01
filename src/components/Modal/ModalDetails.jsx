@@ -7,7 +7,7 @@ const ModalDetails = (props) => {
   // console.log(props);
   const { country, name, t20i} = props.modal
 
-  console.log(t20i.match)
+  // console.log(t20i.match);
 
   const [show, setShow] = useState(false)
 

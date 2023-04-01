@@ -7,7 +7,7 @@ import './Cart.css';
 const Cart = (props) => {
  
     const cart = props.cart
-    console.log(cart.name);
+    // console.log(cart.name);
 
 let pl ='';
 let quantity =0;
@@ -27,13 +27,31 @@ const total = totalPrice + tax;
 
     return (
         <div className='cart'>
-            <h4>Order Summary</h4>
+
+<div id="plname" className="text-center">
+<h5 className="fw-bold mt-3">Order Summary</h5>
+
+</div>
             
-            <p>Selected Players :  {quantity}</p> 
-            <p>Selected Players :  {pl}</p> 
-            <p>Price : ${totalPrice}</p> 
-            <p>Tax : ${tax} </p>            
-            <h5>Total Invested : ${total}</h5>
+<div  id="plname"  className=" mt-2 text-center">
+            <p className='mt-3'>total  Players :  {quantity}</p> 
+</div>
+
+<div id="plname" className=" mt-2 text-start ">
+<p>Selected Players :  {pl}</p> 
+</div>
+
+<div id="plname" className=" mt-2 text-center ">
+<p className='mt-3'>Price : ${totalPrice}</p> 
+</div>
+ 
+<div id="plname" className=" mt-2 text-center">
+<p className="mt-3">Tax : ${tax} </p>            
+</div>
+
+<div id="plname" className=" mt-2 text-center">
+<h4 className='fw-bold mt-3'>Total  : ${total}</h4>
+</div>
 
         </div>
     );

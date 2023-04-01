@@ -13,6 +13,7 @@ const PlayerCard = (props) => {
     const handleAddToCart = props.handleAddToCart
     // console.log(handleAddToCart)
 
+    const handleDltCart = props.handleDltCart
     const vsRating = [];
     let rating = <FontAwesomeIcon icon={faStar} />;
 
@@ -37,7 +38,7 @@ const PlayerCard = (props) => {
                 <button className="buy-btn" onClick={() => handleAddToCart(props.player)} >Buy 
                     <FontAwesomeIcon className="icon" icon={faCartShopping} />
                 </button>
-                <button className="dlt-btn" onClick={() => handleAddToCart(props.player)} >Delete 
+                <button className="dlt-btn" onClick={() => handleDltCart(props.player)} >Delete 
                 </button>
 
             </div>
